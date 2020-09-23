@@ -4,4 +4,4 @@ I decided to create this short game as my final project during a summer coding c
 
 I do like my ASCII art, though.
 
-Feel free to download <a href="RPGMinigame.exe" download>RPGMinigame.exe</a> to quickly give it a try!
+Feel free to download <a href="/RPGMinigame.exe" download>RPGMinigame.exe</a> to quickly give it a try!
